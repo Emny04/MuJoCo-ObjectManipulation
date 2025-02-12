@@ -1,0 +1,5 @@
+numpy
+mujoco
+mujoco-py
+shapely
+scipy
