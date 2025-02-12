@@ -1,5 +1,5 @@
 '''
-Code fully based on https://github.com/sjchoi86/yet-another-mujoco-tutorial-v2
+Code fully based on https://github.com/sjchoi86/yet-another-mujoco-tutorial
 '''
 
 import os
